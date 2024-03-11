@@ -31,14 +31,14 @@ body {
 
 p{
     padding-left: 40px;
-    /*font-size: small;*/
+    font-size: 2rem;
     max-width: 55%;
     color: white;
 }
 
 ul{
-    padding-left: 40px;
-    font-size: small;
+    padding-left: 70px;
+    font-size: 2rem;
     max-width: 60%;
     color: white;
 }
