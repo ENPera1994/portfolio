@@ -6,7 +6,7 @@
 h1 {
     text-shadow: -2px -2px 0 #30607a, 2px -2px 0 #30607a, -2px 2px 0 #30607a, 2px 2px 0 #30607a;
     text-align: center;
-    font-size: xx-large;
+    font-size: 4rem;
     color: #fbbf62;
 }
 
@@ -22,15 +22,16 @@ body {
 
 .desplegable{
     padding-top: 10px;
-    padding-left: 15px;
-    font-size: large;
+    padding-left: 5px;
+    max-width: 70%;
+    font-size: 2rem;
     text-shadow: white 1px 0 10px;
     font-weight: bolder;
 }
 
 p{
     padding-left: 40px;
-    font-size: small;
+    /*font-size: small;*/
     max-width: 55%;
     color: white;
 }
